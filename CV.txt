@@ -1,0 +1,102 @@
+PERSONAL INFORMATION
+Ekaterina Ovcharenko
+6, Volokolamskoe sh., apt. 123
+Moscow,  125080, Russia
+Phone: +7 915 257 69 27
+
+Date of Birth: 10.03.1980 ← боюсь спрашивать, сколько тебе лет ^__^ - надо мной работали лушие мумификаторы страны, чо)
+
+
+SKILLS
+
+Computer Languages: Lua, Bash, Python, R, regular expressions
+Development Tools: Flyspray, CVS, Git
+Systems: Linux, Windows, MacOS
+Soft Skills: managing group of 15-20 people, teaching Mathematics and Physics, direct working with clients
+
+LANGUAGES	
+
+Russian (Native)
+English (Upper Intermediate – ну это вранье, на самом деле там то пока и Intermediate с трудом)
+
+WORK EXPERIENCE	
+
+May 2012 — present
+Kaspersky Lab, Head of heuristic analysis group (Moscow, Russia)
+
+Key Responsibilities:
+Providing antispam heuristics for Kaspersky line of products (Kaspersky Internet Security, Kaspersky Linux Mail Securilty, Kaspersky Security for Exchange, Kaspersky SDK),  coordinating senior spam analysts (сколько их у тебя? Я бы так и написал – управление группой из Х старших аналитиков – дело в том, что с уходом Деденка и Довгопола у меня из старших аналитиков осталась только Ира, Андрей не в счет, поскольку он официально работает под Наташей, 1-3 человека звучит довольно жалко), directing product developers, third level support for customers.
+
+Achievments: 
+Increased the effective share of heuristics in overall detection statistics from  45% to  75% due to:
+- enforcing task management system (FlySpray, Chilli Project);
+- improved communication between ordinary analysts and heuristics analysis group.
+
+Хорошо бы ещё что-то про менеджерство упомянуть – не умею про менеджерство... 
+
+- 
+Analysis of spamware bot templates.
+
+- new approaches to message headers analysis;Довольно мутно звучит. Надо расписать про Email headers, SMTP-headers и м.б. даже сослаться на RFC 2822 и т.п.  HTML же! - нид хэлп в этом. Там по сути был анализ 16-ричных заголовков и вот это все... Как это сформулировать можно?
+
+Helped keeping several key customers by:
+- 
+Adapting anti-spam engine's code and configuration to match customers' needs.
+
+- 
+Expanding product's functionality using Lua programming language.
+
+- Supporting spam analysis toolkit (set of shell scripts), 
+
+
+
+February 2010 — April 2012
+Kaspersky Lab, Senior Spam Analyst (Moscow, Russia)
+
+Key Responsibilities:
+Programming complex heuristics based on monitoring spam steams and clients' feedback.
+
+
+January 2008 — March 2010
+Kaspersky Lab, Spam Analyst (Moscow, Russia)
+
+Key Responsibilities: real time creation of basic antispam heuristics including specific text patterns.
+
+
+
+June 2007 — February 2008
+Countrycom (telecommunication provider), Support engineer (Moscow, Russia)
+
+Key Responsibilities: diagnose, troubleshoot and resolve a range of network (это все таки была не сеть) connectivity issues including basic wiring tasks.
+
+
+
+ September 2001 — April 2003
+Средняя школа №4, учитель физики (Dolgoprudny, Russia)
+
+Key Responsibilities:  обучение по общеобразовательной программе учеников 7-11 классов, подготовка к сдаче выпускных экзаменов, ведение факультативов для поступающих в профильные ВУЗы
+
+
+
+
+
+EDUCATION
+1997-1999	Moscow Institute of Physics and Technology (инженер физик это твоя специальность? Я думал, мы все там специалисты по прикладной мат. и физ. - я уже не помню, наверное ты прав): список прослушанных курсов – да только самые общие и половину не помню уже – их писать?
+математический анализ
+физика
+теоретическая механика
+экономика
+
+2002-2005	Moscow State Pedagogical University (преподаватель математики в вузе): список прослушанных курсов 
+математический анализ
+алгебра (это всякие теории групп и иже с ними)
+геометрия
+дифференциальные уравнения
+теория вероятности и математическая статистика
+дискретный анализ
+это все действительно надо писать?
+
+
+
+
+
