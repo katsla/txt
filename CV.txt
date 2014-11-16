@@ -75,26 +75,28 @@ Key Responsibilities:
 
 EDUCATION
 1997-1999	Moscow Institute of Physics and Technology (Applied Mathematics an Physics)
+Linear Algebra and Analytical Geometry
+Mathematical Analysis
+General Physics
+Theoretical Mechanics
+Complex Variable Theory
+General and Applied Economics
+Informatics and Application of Computers in Academic Researches
 
-математический анализ
-физика
-теоретическая механика
-экономика
-программирование
 
+2002-2005	Moscow State Pedagogical University (University Lecturer, хз как это назвать, сейчас у них на сайте никакого такого направления нет, можно оставить просто преподаватель математики, например): 
+Mathematical Analysis
+Higher Algebra (не уверена, что так правильно. у нас эта дисциплина называлась просто алгебра и там было все, начиная от линейной заканчивая теорией групп и колец)
+Analytical Geometry
+Differential Geometry
+Differencial Equations
+Fundamental of Probability Theory and Stochastic Processes
+Mathematical Statistics
+Discrete Analysis
+Mathematical Logic
+Elementary Mathematics
 
-2002-2005	Moscow State Pedagogical University (University Lecturer): список прослушанных курсов 
-математический анализ
-алгебра (это всякие теории групп и иже с ними)
-геометрия
-дифференциальные уравнения
-теория вероятности и математическая статистика
-дискретный анализ
-# это все действительно надо писать? 
-# ДА!
-# Подумай над формулировкой специальности -- как-то не звучит.
-
-#Где около-айтишные интересы?
+#Где около-айтишные интересы? - What do you mean?
 
 
 
