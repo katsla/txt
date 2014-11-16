@@ -3,6 +3,7 @@ Ekaterina Ovcharenko
 6, Volokolamskoe sh., apt. 123
 Moscow,  125080, Russia
 Phone: +7 915 257 69 27
+Email: ???
 
 
 SKILLS
@@ -12,10 +13,10 @@ Development Tools: Flyspray, CVS, Git
 Systems: Linux, Windows, MacOS
 Soft Skills: managing group of 20 people, customer support, teaching mathematics and physics to students
 
-LANGUAGES	
+LANGUAGES
 
 Russian (Native)
-English (Upper Intermediate)   # Whitireia requires IELTS 5.5 (no band lower than 5.0) -- it means Upper Intermediate. 
+English (Upper Intermediate)
 
 WORK EXPERIENCE	
 
@@ -52,7 +53,7 @@ January 2008 — March 2010
 Kaspersky Lab, Spam Analyst (Moscow, Russia)
 
 Key Responsibilities: 
-- Creation basic antispam heuristics real time.
+- Creating basic antispam heuristics.
 
 
 June 2007 — February 2008
@@ -66,37 +67,41 @@ September 2001 — April 2003
 Secondary school #4, Teacher of physics and mathematics (Dolgoprudny, Russia)
 
 Key Responsibilities:  
-- Running physics classes.
+- Running regular physics classes.
 - Preparing students for tertiary entrance exams.
 - Providing extended lectures on physics and mathematics.
 
 
-
-
 EDUCATION
 1997-1999	Moscow Institute of Physics and Technology (Applied Mathematics an Physics)
-Linear Algebra and Analytical Geometry
-Mathematical Analysis
-General Physics
-Theoretical Mechanics
-Complex Variable Theory
-General and Applied Economics
-Informatics and Application of Computers in Academic Researches
+Notable attended courses:
+* Linear Algebra and Analytical Geometry
+* Mathematical Analysis
+* General Physics
+* Theoretical Mechanics
+* Complex Variable Theory
+* General and Applied Economics
+* Informatics and Application of Computers in Academic Researches
 
 
-2002-2005	Moscow State Pedagogical University (University Lecturer, хз как это назвать, сейчас у них на сайте никакого такого направления нет, можно оставить просто преподаватель математики, например): 
-Mathematical Analysis
-Higher Algebra (не уверена, что так правильно. у нас эта дисциплина называлась просто алгебра и там было все, начиная от линейной заканчивая теорией групп и колец)
-Analytical Geometry
-Differential Geometry
-Differencial Equations
-Fundamental of Probability Theory and Stochastic Processes
-Mathematical Statistics
-Discrete Analysis
-Mathematical Logic
-Elementary Mathematics
+2002-2005	Moscow State Pedagogical University (Mathematics Teacher)
+Notable attended courses:
+# Попизди термины отсюда: http://en.wikipedia.org/wiki/Mathematics
+* Mathematical Analysis
+* Higher Algebra
+* Analytical Geometry
+* Differential Geometry
+* Differencial Equations
+* Fundamentals of Probability Theory and Stochastic Processes
+* Mathematical Statistics
+* Discrete Analysis
+* Mathematical Logic
+* Elementary Mathematics
 
-#Где около-айтишные интересы? - What do you mean?
+HOBBIES AND INTERESTS
+- Video editing
+- Kayaking
+
 
 
 
