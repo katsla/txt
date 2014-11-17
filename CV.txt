@@ -3,7 +3,7 @@ Ekaterina Ovcharenko
 6, Volokolamskoe sh., apt. 123
 Moscow,  125080, Russia
 Phone: +7 915 257 69 27
-Email: ???
+Email: katerina.ovcharenko@gmail.com
 
 
 SKILLS
@@ -34,8 +34,8 @@ Achievements:
 
 Increased the effective share of heuristics in overall Spam detection statistics from 45% to 75% with:
 - focusing and controlling efforts using task management systems (FlySpray, Chilli Project);
-- applying latest approaches from IT conferences and academic papers; #Пиздёж, но HTML и Деденковские Message-Id можно вкратце упоминать на собеседованиях. Кстати, попробуй пробежаться по Google Scholar в поисках SPAM
-- collaboration with virus analysis group. #Здесь можешь рассказывать про шаблоны и про то, что мы иногда вирусы останавливает своими методами
+- applying latest approaches from IT conferences and academic papers;
+- collaboration with virus analysis group.
 
 
 
@@ -79,28 +79,28 @@ Notable attended courses:
 * Mathematical Analysis
 * General Physics
 * Theoretical Mechanics
-* Complex Variable Theory
+* Complex Analysis
 * General and Applied Economics
 * Informatics and Application of Computers in Academic Researches
 
 
 2002-2005	Moscow State Pedagogical University (Mathematics Teacher)
 Notable attended courses:
-# Попизди термины отсюда: http://en.wikipedia.org/wiki/Mathematics
 * Mathematical Analysis
-* Higher Algebra
-* Analytical Geometry
-* Differential Geometry
-* Differencial Equations
+* Abstract Algebra
+* Analytic Geometry
+* Differential Geometry and Topology
+* Differential Calculus
 * Fundamentals of Probability Theory and Stochastic Processes
 * Mathematical Statistics
-* Discrete Analysis
+* Discrete Mathematics
 * Mathematical Logic
 * Elementary Mathematics
 
 HOBBIES AND INTERESTS
 - Video editing
-- Kayaking
+- Kayaking, rafting
+## рОлевые игры писать?)
 
 
 
