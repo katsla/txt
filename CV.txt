@@ -8,10 +8,10 @@ Email: katerina.ovcharenko@gmail.com
 
 SKILLS
 
-Computer Languages: Lua, Bash, Python, R, regular expressions
+Computer Languages: Lua, Bash, Python, R, regular expressions, XML, HTML
 Development Tools: Flyspray, CVS, Git
 Systems: Linux, Windows, MacOS
-Soft Skills: managing group of 20 people, customer support, teaching mathematics and physics to students
+Soft Skills: managing group of 15 people, customer support, teaching mathematics and physics to students
 
 LANGUAGES
 
@@ -24,18 +24,18 @@ May 2012 — present
 Kaspersky Lab, Head of heuristic analysis group (Moscow, Russia)
 
 Key Responsibilities:
-- Leading group of senior spam analysts.
-- Providing antispam heuristics for Kaspersky line of products (Kaspersky Internet Security, Kaspersky Linux Mail Securilty, Kaspersky Security for Exchange, Kaspersky SDK);
-- Directing for Antispam Engine developers
-- Improving customer retention by adding requested functionality and fine tuning the products.
-- Supporting spam analysis toolkit (set of Perl, Lua and shell scripts).
+- Leading a group of senior spam analysts.
+- Providing antispam heuristics for Kaspersky line of products (Kaspersky Internet Security, Kaspersky Linux Mail Securilty, Kaspersky Security for Exchange, Kaspersky SDK).
+- Guiding antispam engine developers.
+- Improving customer retention by adding a requested functionality and fine tuning the products.
+- Supporting a spam analysis toolkit (set of Perl, Lua and shell scripts).
 
 Achievements: 
 
-Increased the effective share of heuristics in overall Spam detection statistics from 45% to 75% with:
-- focusing and controlling efforts using task management systems (FlySpray, Chilli Project);
-- applying latest approaches from IT conferences and academic papers;
-- collaboration with virus analysis group.
+Increased the effective share of heuristics in the overall Spam detection statistics from 45% to 75% with:
+- focusing and controlling efforts using a task management systems (FlySpray, Chilli Project);
+- applying the latest approaches from IT conferences and academic papers;
+- collaborating with a virus analysis group.
 
 
 
@@ -69,7 +69,7 @@ Secondary school #4, Teacher of physics and mathematics (Dolgoprudny, Russia)
 Key Responsibilities:  
 - Running regular physics classes.
 - Preparing students for tertiary entrance exams.
-- Providing extended lectures on physics and mathematics.
+- Providing advanced lectures on physics and mathematics.
 
 
 EDUCATION
@@ -98,9 +98,7 @@ Notable attended courses:
 * Elementary Mathematics
 
 HOBBIES AND INTERESTS
-- Video editing
-- Kayaking, rafting
-## рОлевые игры писать?)
+Video editing, kayaking, rafting, boardgames.
 
 
 
