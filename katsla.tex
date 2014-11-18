@@ -1,0 +1,128 @@
+\documentclass[11pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% moderncv themes
+\moderncvstyle{casual}                          % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{green}                               % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+%\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+% adjust the page margins
+\usepackage[scale=0.75]{geometry}
+
+% personal data
+\name{Ekaterina}{Ovcharenko}
+% \title{Developer}
+\address{6, Volokolamskoe sh., apt. 123}{Moscow}{Russia}
+\phone[mobile]{+7915-257-6927}
+\email{katerina.ovcharenko@gmail.com}
+
+
+\newcommand{\kaspersky}{\href{kaspersky.com}{Kaspersky Lab (kaspersky.com)}}
+% \newcommand{\responsibilities}{\emph{Key responsibilities}:}
+% \newcommand{\achievements}{\hfill\emph{Achievements}:}
+
+\newcommand{\responsibilities}[1]{ \emph{Responsibilities}:\begin{itemize} #1\end{itemize}}
+\newcommand{\achievements}[1]{ \emph{Achievements}:\begin{itemize} #1\end{itemize}}
+
+
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+
+
+\begin{document}
+
+\makecvtitle
+
+% \section{Work Permit}
+%     \hintstyle{Student Visa:} allowed to work for up to 20 hours each week\hfill 
+
+\section{Computer skills}
+    \cvitem{Computer languages}{Lua, Bash, Python, R, regular expressions, XML, HTML}
+    \cvitem{Development Tools}{Flyspray, CVS, Git}
+    \cvitem{Systems}{Linux, Windows, MacOS}
+    \cvitem{Soft Skills}{managing group of 15 people, customer support, teaching mathematics and physics to students}
+
+
+\section{Languages}
+    \hintstyle{English:} Upper Intermediate\hfill 
+    \hintstyle{Russian:} Native \hfill 
+
+
+\section{Experience}
+
+\cventry{May 2012 -- present}{Head of heuristic analysis group}{Kaspersky Lab}{Moscow}{} {
+    \responsibilities {
+        \item Leading a group of senior spam analysts.
+        \item Providing antispam heuristics for Kaspersky line of products (Kaspersky Internet Security, Kaspersky Linux Mail Securilty, Kaspersky Security for Exchange, Kaspersky SDK).
+        \item Guiding antispam engine developers.
+        \item Improving customer retention by adding a requested functionality and fine tuning the products.
+        \item Supporting a spam analysis toolkit (set of Perl, Lua and shell scripts).
+    }
+    \achievements {
+        \item Increased the effective share of heuristics in the overall Spam detection statistics from 45\% to 75\% with:
+        \begin{itemize}
+            \item focusing and controlling efforts using a task management systems (FlySpray, Chilli Project);
+            \item applying the latest approaches from IT conferences and academic papers;
+            \item collaborating with a virus analysis group.
+        \end{itemize}
+    }
+}
+
+
+\section{Education}
+
+\cventry{2002 -- 2005}{Mathematics Teacher}{Moscow State Pedagogical University}{}{}{
+    Notable attended courses:
+    \begin{itemize}
+        \item  Mathematical Analysis
+        \item  Abstract Algebra
+        \item  Analytic Geometry
+        \item  Differential Geometry and Topology
+        \item  Differential Calculus
+        \item  Fundamentals of Probability Theory and Stochastic Processes
+        \item  Mathematical Statistics
+        \item  Discrete Mathematics
+        \item  Mathematical Logic
+        \item  Elementary Mathematics
+    \end{itemize}
+}  
+\cventry{1997 -- 1999}{Applied Mathematics an Physics}{Moscow Institute of Physics and Technology}{}{}{
+        Notable attended courses:
+    \begin{itemize}
+        \item Linear Algebra and Analytical Geometry
+        \item Mathematical Analysis
+        \item General Physics
+        \item Theoretical Mechanics
+        \item Complex Analysis
+        \item General and Applied Economics
+        \item Informatics and Application of Computers in Academic Researches
+    \end{itemize}
+}
+
+
+% \nocite{*}
+% \bibliographystyle{plain}
+% \bibliography{Shiltsov_moderncv}
+
+
+\section{Interests}
+Unix, open source, \href{http://en.wikipedia.org/wiki/Getting_Things_Done}{GTD}, data extraction, data mining, automating routines, keeping users happy.
+
+
+% 
+% \section{References}
+% \begin{cvcolumns}
+%   \cvcolumn{Category 1}{\begin{itemize}\item Person 1\item Person 2\item Person 3\end{itemize}}
+%   \cvcolumn{Category 2}{Amongst others:\begin{itemize}\item Person 1, and\item Person 2\end{itemize}(more upon request)}
+%   \cvcolumn[0.5]{All the rest \& some more}{\textit{That} person, and \textbf{those} also (all available upon request).}
+% \end{cvcolumns}
+% 
+
+
+\end{document}
+
