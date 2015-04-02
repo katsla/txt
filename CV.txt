@@ -9,9 +9,9 @@ Email: katerina.ovcharenko@gmail.com
 SKILLS
 
 Computer Languages: Lua, Bash, Python, R, regular expressions, XML, HTML
-Development Tools: Flyspray, CVS, Git
+Development Tools: Flyspray, Chilli Project, CVS, Git, ssh
 Systems: Linux, Windows, MacOS
-Soft Skills: managing group of 15 people, customer support, teaching mathematics and physics to students
+Soft Skills: managing group of 15 people, customer support, teaching mathematics and physics to students, video editing (Final Cut Pro 2, X)
 
 LANGUAGES
 
@@ -28,7 +28,7 @@ Key Responsibilities:
 - Providing antispam heuristics for Kaspersky line of products (Kaspersky Internet Security, Kaspersky Linux Mail Securilty, Kaspersky Security for Exchange, Kaspersky SDK).
 - Guiding antispam engine developers.
 - Improving customer retention by adding a requested functionality and fine tuning the products.
-- Supporting a spam analysis toolkit (set of Perl, Lua and shell scripts).
+- Supporting and developing a spam analysis toolkit (set of Perl, Lua and shell scripts).
 
 Achievements: 
 
@@ -47,6 +47,7 @@ Key Responsibilities:
 - Programming complex heuristics with heavy use of regular expressions.
 - Monitoring spam traps data.
 - Supporting clients.
+- Supporting and developing a spam analysis toolkit (set of Perl, Lua and shell scripts).
 
 
 January 2008 — March 2010
@@ -98,7 +99,7 @@ Notable attended courses:
 * Elementary Mathematics
 
 HOBBIES AND INTERESTS
-Video editing, kayaking, rafting, boardgames.
+kayaking, rafting, boardgames.
 
 
 
