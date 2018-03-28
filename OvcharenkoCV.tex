@@ -1,0 +1,194 @@
+\documentclass[11pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% moderncv themes
+\moderncvstyle{banking}                          % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{blue}                               % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+%\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+% adjust the page margins
+\usepackage[scale=0.75]{geometry}
+
+% cvreferences
+\newcommand{\cvreference}[7]{%
+    \textbf{#1}\newline% Name
+    \ifthenelse{\equal{#2}{}}{}{\addresssymbol~#2\newline}%
+    \ifthenelse{\equal{#3}{}}{}{#3\newline}%
+    \ifthenelse{\equal{#6}{}}{}{\emailsymbol~\texttt{#6}\newline}%
+    \ifthenelse{\equal{#7}{}}{}{\phonesymbol~#7}}
+
+% personal data
+\name{Ekaterina}{Ovcharenko}
+% \title{Developer}
+\address{104 Parkvale road}{Karori}{Wellington}
+\phone[mobile]{+64 22 1227141}
+\email{katerina.ovcharenko@gmail.com}
+
+
+\newcommand{\kaspersky}{\href{kaspersky.com}{Kaspersky Lab (kaspersky.com)}}
+% \newcommand{\responsibilities}{\emph{Key responsibilities}:}
+% \newcommand{\achievements}{\hfill\emph{Achievements}:}
+
+\newcommand{\responsibilities}[1]{ \emph{Responsibilities}:\begin{itemize} #1\end{itemize}}
+\newcommand{\achievements}[1]{ \emph{Achievements}:\begin{itemize} #1\end{itemize}}
+
+
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+
+
+\begin{document}
+
+\makecvtitle
+
+\section{Short resume}
+
+For the last 11 years I've been working for Kaspersky anti-virus giant in the area of Spam detection, where I was particularly good in processing raw text data with regular expressions, Linux command line tools and R scripts, and effectively fulfilling business needs with limited resources.
+\par\medskip
+Apart from leading a team, I wrote and supported Lua, Bash, Python and SQL code, created tests and documentation. I am quite confident with version control and issue tracking systems. 
+
+
+%\section{Work Permit}
+%    \hintstyle{Student Visa:} allowed to work for up to 20 hours each week\hfill 
+
+\section{Skills}
+    \cvitem{Computer languages}{Lua, Bash, R, Python, SQL, regular expressions, XML, HTML}
+%    \cvitem{Tools}{Flyspray, Chili Project, CVS, Git, SSH}
+%    \cvitem{Systems}{Linux, Windows, MacOS}
+    \cvitem{IT tools}{Linux, PostgreSQL, Git, CVS, Jenkins}
+    \cvitem{Soft skills}{team training and managment, conflict managment, customer support}
+
+
+
+\section{Experience}
+
+\cventry{October~2015 -- present}{Senior Spam Analyst}{Kaspersky Lab}{remote work}{} {
+    \responsibilities {
+        \item Programming complex heuristics with heavy use of regular expressions.
+        \item Automating routine tasks by writing scripts and utilities.
+        \item Exploratory data analysis of email features using PosgreSQL.
+        \item Second level client support.
+	\item Supporting and developing a spam analysis toolkit, written in Python, Lua, R and Bash.
+        \item Supervising and quality control.
+    }
+}
+
+\cventry{May~2012 -- September~2015}{Lead of heuristic analysis group}{Kaspersky Lab}{Moscow}{} {
+    \responsibilities {
+        \item Leading a group of senior spam analysts.
+        \item Providing antispam heuristics for Kaspersky line of product.
+        \item Antispam engine development in Lua.
+        \item Supporting and developing a spam analysis toolkit, written in Python, Lua, R and Bash.
+	\item Leading and training senior analysts.
+    }
+    \achievements {
+        \item Increased the effective share of heuristics in the overall Spam detection statistics from 45\% to 70\% with:
+        \begin{itemize}
+            \item focusing and controlling efforts using a task management systems;
+            \item applying the latest approaches from IT conferences and academic papers;
+            \item initializing and supervision of new spam detection approaches;
+        \end{itemize}
+	\item Received the company award for helping the product to achieve 1st place in public test.
+        \item Trained a team of senior analysts the fundamentals of Unix shell, ssh, CVS, GIT, regular expressions.
+    }
+}
+\pagebreak
+\cventry{February~2010 -- April~2012}{Senior Spam Analyst}{Kaspersky Lab}{Moscow}{} {
+    \responsibilities {
+        \item Programming complex heuristics with heavy use of regular expressions.
+        \item Debugging product's control logic.
+        \item Automating routine tasks by writing scripts and utilities.
+        \item Monitoring data from spam traps.
+        \item Spam-analysts support and teaching.
+        \item Second level client support.
+    }
+}
+
+\cventry{January~2006 -- January~2010}{Spam Analyst}{Kaspersky Lab}{Moscow}{} {
+    \responsibilities {
+        \item Creating basic antispam heuristics using proprietary text patterns.
+    }
+}
+
+%\cventry{June~2007 -- February~2008}{Support engineer}{Countrycom (telecommunication provider)}{Moscow}{} {
+%    \responsibilities {
+%        \item Resolving network connectivity issues.
+%        \item Basic wiring tasks.
+%    }
+%}
+
+\cventry{August~2005 -- December~2005}{QA engineer}{Vocord global telecommunication}{Moscow}{} {
+    \responsibilities {
+        \item Load and functional testing.
+    }
+}
+
+\cventry{September~2001 -- April~2003}{Teacher of physics and mathematics}{Secondary school \#4}{Moscow}{} {
+    \responsibilities {
+        \item Running regular physics classes.
+        \item Preparing students for tertiary entrance exams.
+        \item Providing advanced lectures on physics and mathematics.
+    }
+}
+
+
+\section{Education}
+
+% \cventry{2012 -- 2013}{Cinema director}{National Research University Higher School of Media}{}{}{}
+
+\cventry{2016 -- 2017}{Graduate Diploma in IT}{Whitireia New Zealand}{}{}{}
+
+\cventry{2002 -- 2005}{Mathematics Teacher}{Moscow State Pedagogical University}{}{}{
+%     Notable attended courses:
+%     \begin{itemize}
+%         \item  Mathematical Analysis
+%         \item  Abstract Algebra
+%         \item  Analytic Geometry
+%         \item  Differential Geometry and Topology
+%         \item  Differential Calculus
+%         \item  Fundamentals of Probability Theory and Stochastic Processes
+%         \item  Mathematical Statistics
+%         \item  Discrete Mathematics
+%         \item  Mathematical Logic
+%         \item  Elementary Mathematics
+%     \end{itemize}
+}  
+\cventry{1997 -- 1999}{Applied Mathematics an Physics}{Moscow Institute of Physics and Technology}{}{}{
+%         Notable attended courses:
+%     \begin{itemize}
+%         \item Linear Algebra and Analytical Geometry
+%         \item Mathematical Analysis
+%         \item General Physics
+%         \item Theoretical Mechanics
+%         \item Complex Analysis
+%         \item General and Applied Economics
+%         \item Informatics and Application of Computers in Academic Researches
+%     \end{itemize}
+}
+
+\section{Interests}
+Online learning, video editing, rafting, boardgames, LARP
+
+
+
+\section{References}
+ \begin{cvcolumns}
+   \cvcolumn{ \\}{\begin{itemize}
+		\item Dmitry Shiltsov \\Developer \\Powershop New Zealand \\d.shiltsov@gmail.com \\+64 21 1749483 \\
+                \item Ekaterina Willamow \\Researcher in computational linguistics \\The Univercity of Melbourne \\ekaterina.vylomova@fulbrightmail.org \\+61 47 8776075 
+%		\item Evgeny Smirnov \\Head of Content Filtering Research\\Kaspersky Lab \\Evgeny.Smirnov@kaspersky.com 
+			\end{itemize}}
+%   \cvcolumn{Category 2}{Amongst others:\begin{itemize}\item Person 1, and\item Person 2\end{itemize}(more upon request)}
+%   \cvcolumn[0.5]{All the rest \& some more}{\textit{That} person, and \textbf{those} also (all available upon request).}
+ \end{cvcolumns}
+% 
+
+
+
+\end{document}
+
